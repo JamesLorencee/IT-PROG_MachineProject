@@ -1,0 +1,22 @@
+Machine Project - DTR
+
+1. To start, please open login.php and login using your credentials.
+   a. If you do not have an account, you can register using the register button.
+   b. Existing accounts:
+	-Username: angelina123
+	 Password: angelina123
+	-Username: timothee_ch
+	 Password: timothee_ch
+   c. If your account is new, please select your position.
+
+2. In the main menu, you can choose to:
+   a. Create DTR by week
+   b. Modify DTR by day
+   c. Delete DTR by day or week
+   d. View DTR by month
+   e. Compute salary for a month
+   f. Update personal information
+   g. Import XML data
+   h. Export data to XML format
+
+3. There is also a chat system made for you to chat with admin in case of any concerns.
